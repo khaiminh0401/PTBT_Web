@@ -55,7 +55,7 @@
   
  <h1>Cá Kho Tộ</h1>
     <p><strong>Khẩu phần:</strong> 4 người</p>
-     <img src="../../../assert/imageFood/cakhoto/cakhoto.jpg">
+     <img class="img-thumbnail" src="../../../assert/imageFood/cakhoto/cakhoto.jpg">
     <h2>Nguyên liệu:</h2>
     <ul>
         <li>900g cá ba sa (giá khoảng 40,000đ - 50,000đ/kg)</li>
@@ -164,7 +164,7 @@ Tiếp theo bạn rửa lại cá bằng nước sạch khoảng 1-2 lần rồi
 <p>
 Bạn cắt cá thành khúc dày 2,5 cm. Với kích thước này, cá sẽ thấm đều gia vị mà khi kho sẽ không bị nát. Bạn có thể dùng nguyên phần mình cá để kho còn phần đầu, đuôi cá dùng để nấu canh cá cà chua nhé.
 </p>
-  <img src="../../../assert/imageFood/cakhoto/cakhoto1.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/cakhoto/cakhoto1.jpg">
 <p>
 Tiếp đó, các bạn bóc vỏ, rửa sạch hành tím và tỏi rồi băm nhỏ.
 </p>
@@ -174,12 +174,12 @@ Với hành lá, các bạn bỏ gốc rồi cắt khúc phần đầu hành, c�
 <p>
 Bạn đập dập 3 quả ớt . Nếu bạn nào ăn được cay có thể cho thêm lượng ớt hoặc băm nhỏ ớt ra nhé!
 </p>
-  <img src="../../../assert/imageFood/cakhoto/cakhoto2.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/cakhoto/cakhoto2.jpg">
       <h4>Bước 2: Ướp cá</h4>
 <p>
 Các cụ xưa có câu: “Cá không ăn muối cá ươn” nên sau khi sơ chế cá xong chúng ta cần ướp cá ngay để đảm bảo thịt cá không bị ươn và thấm đều gia vị nhé!
 </p>  
-<img src="../../../assert/imageFood/cakhoto/cakhoto3.jpg">
+<img class="img-thumbnail" src="../../../assert/imageFood/cakhoto/cakhoto3.jpg">
 <p>
 Các bạn ướp cá với các gia vị ướp cá mà mình đã liệt kê chi tiết.
 </p>
@@ -196,7 +196,7 @@ Các bạn cho vào chảo 2 muỗng canh dầu ăn, đợi dầu bắt đầu n
 <p>
 Các bạn chiên cá với lửa vừa, khoảng 2-3 phút cho cá săn lại, lật mặt kia của cá chiên trong 2-3 phút nữa là được.
 </p>
-<img src="../../../assert/imageFood/cakhoto/cakhoto4.jpg">
+<img class="img-thumbnail" src="../../../assert/imageFood/cakhoto/cakhoto4.jpg">
        <h4>Bước 4: Sơ chế cá</h4>
 <p>
    Trong thời gian đợi cá chiên, các bạn lấy nồi đất ra đặt lớp hành tây phía dưới đáy nồi. Sau khi cá đã chiên sơ thì bạn xếp cá vào nồi. Nếu bạn nào không có nồi đất thì dùng nồi bình thường cũng được nha!
@@ -213,7 +213,7 @@ Tiếp đó mình cho vào chảo các nguyên liệu còn lại của gia vị 
 <p>
 Các bạn để lửa to để đun sôi phần sốt, khi nước sốt vừa sôi thì bạn đổ vào nồi đất mà chúng ta đã xếp cá vào.
 </p>
-<img src="../../../assert/imageFood/cakhoto/cakhoto5.jpg">
+<img class="img-thumbnail" src="../../../assert/imageFood/cakhoto/cakhoto5.jpg">
 <p>
 Ở bước này, các bạn chú ý phần sốt phải xâm xấp mặt cá, để cá chín và thấm đều gia vị. Các bạn quan sát, sau khi cho sốt vào mà bạn thấy phần nước sốt hơi ít, bạn có thể cho thêm một chút nước sôi vào nhé!
 </p>
@@ -226,7 +226,7 @@ Sau 10 phút, các bạn mở nắp ra và lật cá nhẹ nhàng. Các bạn l�
 <p>
 Bắt đầu từ thời gian này, các bạn để mở nắp nồi cá.
 </p>
-<img src="../../../assert/imageFood/cakhoto/cakhoto6.jpg">
+<img class="img-thumbnail" src="../../../assert/imageFood/cakhoto/cakhoto6.jpg">
 <p>
 Sau đó, các bạn cho phần đầu hành lá cắt khúc và ớt đập dập vào kho cùng cho thơm nhé!
 </p>
@@ -243,7 +243,7 @@ Thịt cá mềm, không bị nát, mang màu nước đường trông rất đ�
 <p>
 Mâm cơm với cá kho tộ, bát canh chua nấu từ đầu và đuôi cá hay đơn giản là đĩa rau luộc thôi là đã rất tuyệt rồi.
 </p>
-  <img src="../../../assert/imageFood/cakhoto/cakhoto7.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/cakhoto/cakhoto7.jpg">
   <p>
 Bảo quản cá kho tộ cũng rất đơn giản. Các bạn chỉ cần bọc kĩ cá bằng màng bọc thực phẩm hoặc bỏ vào hộp đựng thực phẩm rồi cất trong trong ngăn mát tủ lạnh.
   </p>
@@ -254,4 +254,4 @@ Thời gian lý tưởng để cá vẫn thơm ngon và giữ được mùi vị
 Ngoài ra, khẩu vị của mỗi người sẽ có chút khác nhau, có bạn thích ăn ngọt cũng có bạn thích ăn cay. Trong quá trình nấu, các bạn có thể tự điều chỉnh lượng gia vị để phù hợp với khẩu vị của bản thân và gia đình nhé!
 </p>
 
-    <p><strong>Chi tiết cách làm cá kho tộ:</strong> Bạn có thể tham khảo tại nguồn: <a href="https://thalangon.com">thalangon.com</a></p>
+    <p><strong>Chi tiết cách làm cá kho tộ:</strong> Bạn có thể tham khảo tại nguồn: <a href="https://thatlangon.com">thatlangon.com</a></p>

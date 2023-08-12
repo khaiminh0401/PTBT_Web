@@ -53,7 +53,7 @@
   </style>
    <h1>Tên món: Cơm Chiên Trứng</h1>
     <h2>Khẩu phần: 2 người</h2>
-        <img src="../../../assert/imageFood/comchientrung/comchientrung.jpg">
+        <img class="img-thumbnail" src="../../../assert/imageFood/comchientrung/comchientrung.jpg">
 
     <h3>Nguyên Liệu</h3>
     <ul>
@@ -86,22 +86,40 @@
 
     <h3>Cách làm cơm chiên trứng chi tiết</h3>
     <h4>Bước 1: Chuẩn bị nguyên liệu</h4>
-    <p>Những món ăn có thành phần nguyên liệu càng đơn giản, thì chất lượng của từng nguyên liệu lại càng quan trọng trong việc đem lại hương vị thơm ngon cho tổng thể món ăn.<br>
+    <p>Những món ăn có thành phần nguyên liệu càng đơn giản, thì chất lượng của từng nguyên liệu lại càng quan trọng trong việc đem lại hương vị thơm ngon cho tổng thể món ăn.
+    </p>
+    <p>
 Với cơm chiên, Thật Là Ngon gợi ý các bạn sử dụng cơm nấu bằng gạo dẻo vừa, để khi chiên lên, hạt cơm sẽ không bị quá khô hoặc quá nhão.<br>
+    </p>
+    <p>
 Nếu nhà bạn còn cơm nguội từ bữa tối hôm trước, đừng bỏ đi lãng phí mà hãy cho cơm vào ngăn mát tủ lạnh để tận dụng cho món ăn. Bằng cách này, hạt cơm sẽ tơi hơn và chắc hơn, chúng ta vừa có thể tiết kiệm, lại vừa có được một món ăn ngon.<br>
+    </p>
+    <p>
 Còn nếu không có, bạn để cơm ra ngoài cho nguội rồi hẵng dùng nhé.</p>
+    </p>
 
-        <img src="../../../assert/imageFood/comchientrung/comchientrung1.jpg">
+        <img class="img-thumbnail" src="../../../assert/imageFood/comchientrung/comchientrung1.jpg">
   <p>
-Cơm các bạn bỏ ra tô, dùng thìa xới đánh cho tơi. Bạn lấy chén/tô nhỏ, cho 1 thìa cà phê nước lọc, 2 thìa cà phê nước mắm và hạt nêm vào, khuấy cho tan hết hạt nêm.<br>
-Sau đó, bạn rưới từ từ hỗn hợp vào cơm, dùng thìa xới trộn đều hỗn hợp với cơm. Bước này sẽ giúp cơm được thấm gia vị và hạt cơm sẽ rời ra, lúc chiên không bị vón cục.<br>
+Cơm các bạn bỏ ra tô, dùng thìa xới đánh cho tơi. Bạn lấy chén/tô nhỏ, cho 1 thìa cà phê nước lọc, 2 thìa cà phê nước mắm và hạt nêm vào, khuấy cho tan hết hạt nêm.</p>
+<p>
+Sau đó, bạn rưới từ từ hỗn hợp vào cơm, dùng thìa xới trộn đều hỗn hợp với cơm. Bước này sẽ giúp cơm được thấm gia vị và hạt cơm sẽ rời ra, lúc chiên không bị vón cục.
+</p>
+<p>
 Để cơm qua một bên, cùng mình chuẩn bị trứng nào!<br>
+</p>
+<p>
 Trong công thức này, mình sử dụng trứng vịt thay cho trứng gà. Vì món này chỉ có cơm và trứng là thành phần chính, nên vị thơm và béo của trứng vịt sẽ giúp món ăn hấp dẫn hơn.<br>
-Tuy nhiên, nếu bạn không thích trứng vịt hoàn toàn có thể thay thế bằng trứng gà, thậm chí là trứng cút, nhưng trứng cút thì sẽ khá là hao trứng đấy.</p>
-        <img src="../../../assert/imageFood/comchientrung/comchientrung2.jpg">
+</p>
+<p>
+Tuy nhiên, nếu bạn không thích trứng vịt hoàn toàn có thể thay thế bằng trứng gà, thậm chí là trứng cút, nhưng trứng cút thì sẽ khá là hao trứng đấy.
+</p>
+        <img class="img-thumbnail" src="../../../assert/imageFood/comchientrung/comchientrung2.jpg">
    
-   <p>Bạn đập hai quả trứng vào chén, cho 2 thìa cà phê nước mắm còn lại và tiêu vào, khuấy đều cho trứng tan. Bạn không cần đánh bông đâu nhé, chỉ cần lòng trắng và lòng đỏ tan ra, hòa cùng nước mắm là được.<br>
-    Hành lá bạn rửa sạch, thái nhỏ, phần đầu hành và phần lá để riêng. Vậy là xong phần nguyên liệu, chúng ta cùng bắt tay vào chiên cơm thôi!</p>
+   <p>Bạn đập hai quả trứng vào chén, cho 2 thìa cà phê nước mắm còn lại và tiêu vào, khuấy đều cho trứng tan. Bạn không cần đánh bông đâu nhé, chỉ cần lòng trắng và lòng đỏ tan ra, hòa cùng nước mắm là được.</p>
+
+<p>
+   Hành lá bạn rửa sạch, thái nhỏ, phần đầu hành và phần lá để riêng. Vậy là xong phần nguyên liệu, chúng ta cùng bắt tay vào chiên cơm thôi!</p>
+</p> 
 
 
      <h4>Bước 2: Chiên cơm</h4>
@@ -124,7 +142,7 @@ Vì khi chiên cơm, nhiệt độ rất cao, với nhiệt độ này, thìa x�
 <p>
 Bằng chứng là với thìa xới cơm bằng nhựa, dùng qua một thời gian các bạn sẽ thấy nó bị vẹt đi một góc có phải không? Nếu nhà bạn nào còn dùng thìa nhựa thì hãy cố gắng đổi sang thìa gỗ nhé.</p>
 
-        <img src="../../../assert/imageFood/comchientrung/comchientrung3.jpg">
+        <img class="img-thumbnail" src="../../../assert/imageFood/comchientrung/comchientrung3.jpg">
 
 <p>
 Bạn đảo cơm từ 5-7 phút cho đến khi hạt cơm bắt đầu săn lại và tơi ra thì tắt bếp.
@@ -143,7 +161,7 @@ Thật là đơn giản phải không nào?
    Cơm chiên đã xong, bạn bày ra tô/đĩa, cho thêm vài lát cà chua, dưa leo, thêm chút ngò rí tùy thích, không có thì bỏ qua đều được. Nếu nhạt, các bạn có thể dùng thêm nước tương hoặc tương ớt cũng rất hợp.
    </p>
 
-        <img src="../../../assert/imageFood/comchientrung/comchientrung4.jpg">
+        <img class="img-thumbnail" src="../../../assert/imageFood/comchientrung/comchientrung4.jpg">
   <p>Như vậy là chỉ với các bước đơn giản mà lại không tốn nhiều chi phí, chúng ta đã có một món ăn thơm ngon rồi. Nếu bạn thích, hoàn toàn có thể biến tấu thêm với nhiều nguyên liệu khác như đậu đũa, cà rốt, đậu hà lan, xúc xích, lạp xưởng,…</p>
 
 

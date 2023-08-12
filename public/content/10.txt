@@ -54,7 +54,7 @@
   </style>
     <h1>Nem rán</h1>
     <h2>Khẩu phần: 2 người</h2>
-  <img src="../../../assert/imageFood/nemran/nemran.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/nemran/nemran.jpg">
 
 
     <h3>Nguyên liệu</h3>
@@ -124,7 +124,7 @@ Thịt mua về bạn rửa nhiều lần với nước sạch rồi để cho r
 <p>
 Nếu bạn chọn mua thịt heo ở những cửa hàng chuyên bán thịt heo an toàn, sạch sẽ thì có thể nhờ người bán xay thịt hộ luôn cho tiện.
 </p>
-  <img src="../../../assert/imageFood/nemran/nemran1.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/nemran/nemran1.jpg">
   <p>
 Mộc nhĩ, nấm hương bạn cần đem ngâm vào nước ấm 15 phút cho nở mềm ra.
   </p>
@@ -143,7 +143,7 @@ Miến khô bạn để ra một chiếc rổ nhỏ rồi xả nhanh dưới vò
 <p>
 Hành lá bạn cắt gốc, rửa sạch và để cho ráo nước. Bạn cần thái nhỏ hành lá.
 </p>
-  <img src="../../../assert/imageFood/nemran/nemran2.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/nemran/nemran2.jpg">
   <p>
 Bạn chú ý tất cả các nguyên liệu cần để cho thật ráo nước sau khi rửa sạch. Sau đó bạn mới đem thái các nguyên liệu. Nếu chúng bị ướt thì nhân nem cũng sẽ không được khô, làm ẩm vỏ nem gây rách, hở nhân ra bên ngoài.
   </p>
@@ -156,7 +156,7 @@ Bạn chú ý thao tác trộn cần có xu hướng làm nguyên liệu tơi đ
 <p>
 Trộn xong bạn để yên khoảng 5 phút cho nguyên liệu ngấm gia vị.
 </p>
-  <img src="../../../assert/imageFood/nemran/nemran3.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/nemran/nemran3.jpg">
     <h4>Bước 2: Cuốn nem</h4>
     <p>
 Bạn đập trứng gà ra một chiếc bát nhỏ, đánh cho đều rồi đổ từ từ vào âu trộn nhân nem. Nhờ trứng gà mà nhân nem có màu vàng nhạt đẹp mắt.
@@ -170,7 +170,7 @@ Nhiều người có thói quen đập trứng trực tiếp vào nồi rồi tr
 <p>
 Sau khi đổ trứng vào nhân nem thì cần cuốn nem ngay. Bởi vì nếu để lâu sau khi trộn với trứng thì nguyên liệu vẫn có khả năng bị ra nước.
 </p>
-  <img src="../../../assert/imageFood/nemran/nemran4.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/nemran/nemran4.jpg">
   <p>
 Nỗi băn khoăn lớn nhất của mọi người khi cuốn nem có lẽ là sợ bánh đa nem bị rách. Vậy thì trước khi gói từng chiếc nem, bạn hãy phết chút nước lên bánh đa để giúp bánh đa bớt giòn và tăng độ dai nhé!
   </p>
@@ -186,7 +186,7 @@ Lượng bánh đa nem bạn nên mua thừa ra một chút để đề phòng k
 <p>
 Bạn trải bánh đa nem ra rồi xúc lượng nhân nem vừa đủ vào một phía của bánh đa. Bạn cuốn một vòng đầu tiên rồi gập mép hai đầu lại. Bạn thực hiện thao tác cuộn tròn sao cho bọc kín nhân nem và tạo thành ống hình trụ là được.
 </p>
-  <img src="../../../assert/imageFood/nemran/nemran5.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/nemran/nemran5.jpg">
   <p>
 Độ chặt của cuộn nem bạn cần điều chỉnh vừa đủ thôi nhé! Nếu chặt quá sẽ làm nhân nem bị bục. Nếu lỏng quá thì nhân nem hơi ọp ẹp. Khi rán lên có thể bị xẹp, chưa kể vỏ nem còn bị bung ra nữa.
   </p>
@@ -212,7 +212,7 @@ Bạn lần lượt gắp từng chiếc nem vào chảo dầu sôi. Từng chi�
 <p>
 Rán xong, bạn gắp nem ra chiếc phới lồng hoặc đĩa lót giấy thấm dầu để cho ráo dầu ăn.
 </p>
-  <img src="../../../assert/imageFood/nemran/nemran6.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/nemran/nemran6.jpg">
     <h4>Bước 4: Hoàn thành</h4>
     <p>
 Sau khi chờ cho nem rán ráo dầu ăn. Bạn gắp nem sang chiếc đĩa đẹp hơn và trang trí một chút trước khi bày lên mâm cơm. Bạn có thể cắt từng cuộn nem thành 2-3 phần để gắp ăn cho vừa miệng hơn.
@@ -229,7 +229,7 @@ Khi ăn cảm nhận rõ vỏ nem giòn rụm, nhân nem nóng hổi thơm ngon.
 <p>
 Nhân nem có màu sắc đẹp mắt và hương vị hài hòa khi được kết hợp giữa thịt heo cùng nhiều nguyên liệu rau củ.
 </p>
-  <img src="../../../assert/imageFood/nemran/nemran7.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/nemran/nemran7.jpg">
   <p>
 Để giúp nem rán tăng thêm hương vị và ăn mãi không bị ngán, bạn hãy chuẩn bị thêm một số món sử dụng kèm với nem rán nhé!
   </p>
@@ -242,7 +242,7 @@ Nem rán ăn cùng với dưa món quả là hợp. Hoặc đơn giản hơn b�
 <p>
 Bạn chuẩn bị thêm một ít bún sợi nữa thì đảm bảo cả nhà đã có được một bữa ăn no nê rồi.
 </p>
-  <img src="../../../assert/imageFood/nemran/nemran8.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/nemran/nemran8.jpg">
   <p>
 Nem rán sau khi đã rán chín nên được ăn hết ngay. Bởi vì sau này nếu rán lại, có khả năng lớp vỏ bên ngoài sẽ bị cháy.
   </p>

@@ -55,7 +55,7 @@
   <h1>Măng Tây Xào Tỏi</h1>
   <h3>Khẩu Phần: 2 người</h3>
 
-  <img src="../../../assert/imageFood/mangtayxaotoi/mangtayxaotoi.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/mangtayxaotoi/mangtayxaotoi.jpg">
 
 
     <h3>Nguyên Liệu Chính:</h3>
@@ -121,7 +121,7 @@ Tránh chọn những cây măng tây bị sứt sẹo, có đốm hoặc có m�
 Nếu phần nụ đã nở hoa thì măng tây đã già và không nên ăn nữa.
 </li>
 </ul>
-  <img src="../../../assert/imageFood/mangtayxaotoi/mangtayxaotoi1.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/mangtayxaotoi/mangtayxaotoi1.jpg">
   <p>
 Như mình nói bên trên, măng tây tương đối sạch rồi. Bởi vậy mà khi mua về, bạn chỉ cần đem cắt bỏ phần gốc già của măng tây rồi rửa qua, ngâm với nước muối pha loãng trong 3 phút.
   </p>
@@ -140,7 +140,7 @@ Trong phần sơ chế chỉ cần bóc tỏi và băm nhỏ/ đập dập nữa
 <p>
 Bạn thấy việc sơ chế quá đơn giản đúng không nào?
 </p>
-  <img src="../../../assert/imageFood/mangtayxaotoi/mangtayxaotoi2.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/mangtayxaotoi/mangtayxaotoi2.jpg">
     <h4>Bước 2: Trụng sơ qua măng tây</h4>
     <p>
 Mình thấy nhiều gia đình khi xào rau thường cho rau vào xào trong dầu nóng trực tiếp luôn chứ không trụng qua nước sôi.
@@ -163,7 +163,7 @@ Bạn ngâm măng tây trong nước đá chừng 3 phút rồi vớt ra rổ đ
 <p>
 Bạn nhớ ngâm măng tây vào nước đá ngay để giúp măng tây nguội nhanh thì mới giữ đươc độ giòn và bền màu xanh khi xào.
 </p>
-  <img src="../../../assert/imageFood/mangtayxaotoi/mangtayxaotoi3.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/mangtayxaotoi/mangtayxaotoi3.jpg">
     <h4>Bước 3:Hoàn thành</h4>
     <p>
 Bạn làm nóng chảo với chút dầu ăn ở mức lửa trung bình lớn rồi cho tỏi đã sơ chế vào phi vàng thơm. Mình thấy nhiều người cố tình để cho tỏi chuyển màu cam sẫm rồi mới cho rau vào, bạn có thể làm vậy nhưng canh chừng không tỏi cháy quá khi ăn sẽ thấy vị đắng không ngon nữa.
@@ -177,7 +177,7 @@ Bạn thêm khoảng 40 ml nước măng tây luộc sơ hoặc nước sạch v
 <p>
 Sau đó, bạn nêm nếm gia vị theo khẩu vị của gia đình. Bạn xào đều tay thêm 1-2 phút cho ngấm gia vị và măng tây chín mềm hơn thì tắt bếp.
 </p>
-  <img src="../../../assert/imageFood/mangtayxaotoi/mangtayxaotoi4.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/mangtayxaotoi/mangtayxaotoi4.jpg">
   <p>
 Bạn chú ý không nên xào măng tây quá lâu mà khiến măng tây bị biến chất do nhiệt và bị dai hơn, mất đi độ giòn nhé!
   </p>
@@ -196,6 +196,6 @@ Hương vị của món ăn vừa miệng, vị thơm mát của măng tây cân
 <p>
 Cọng măng tây chín tới, vẫn giữ được độ giòn nhẹ, không bị dai. Khi nhai tạo cảm giác rất ngon miệng.
 </p>
-  <img src="../../../assert/imageFood/mangtayxaotoi/mangtayxaotoi5.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/mangtayxaotoi/mangtayxaotoi5.jpg">
 
     <p>Nguồn: <a href="https://thatlangon.com">thatlangon.com</a></p>

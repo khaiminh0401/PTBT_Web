@@ -55,7 +55,7 @@
     <h1>Salad Cá Hồi</h1>
 
     <h2>Khẩu phần: 2 người</h2>
-    <img src="../../../assert/imageFood/saladcahoi/saladcahoi.jpg">
+    <img class="img-thumbnail" src="../../../assert/imageFood/saladcahoi/saladcahoi.jpg">
 
     <h3>Nguyên liệu chính:</h3>
     <ul>
@@ -89,4 +89,4 @@
         <li>Gắp salad ra đĩa và thưởng thức.</li>
     </ol>
 
-    <p>Nguồn: thatlangon.com</p>
+    <p>Nguồn:<a href="https://thatlangon.com">thatlangon.com</a></p>

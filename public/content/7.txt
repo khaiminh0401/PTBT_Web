@@ -53,7 +53,7 @@
   </style>
     <h1>Tên món: Rau muống xào</h1>
   <h2>Khẩu phần: 2 người</h2>
-  <img src="../../../assert/imageFood/raumuongxao/raumuongxao.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/raumuongxao/raumuongxao.jpg">
 
 
   <h3>Nguyên liệu chính</h3>
@@ -108,7 +108,7 @@ Trong khi đó, tỏi được ví như chất kháng sinh tự nhiên. Sử d�
 <p>
 Tỏi có tính hăng, cay nóng nên không phải ai cũng có thể ăn trực tiếp. Khi được chế biến bằng cách xào, nướng, nấu… thì hương vị của tỏi trở nên dịu đi, thơm hơn nên tất cả mọi người đều có thể ăn được.
 </p>
-  <img src="../../../assert/imageFood/raumuongxao/raumuongxao1.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/raumuongxao/raumuongxao1.jpg">
   <p>
 Để rau xào được ngon, bạn nên chọn mua rau muống có thân màu xanh lá cây nhạt. Ống thân và lá rau hơi to để khi xào sẽ được giòn mà không bị nát.
   </p>
@@ -143,7 +143,7 @@ Bạn đừng nghĩ bước này mất thời gian nhé. Bước chần rau giú
 <p>
 Phần nước luộc rau bạn đừng vội đổ đi mà hãy chờ nguội hẳn. Nước rau được vắt thêm chút chanh tươi vào thì ngon tuyệt. Uống để giải khát hoặc để làm nước canh ăn với cơm đều hợp đó bạn.
 </p>
-  <img src="../../../assert/imageFood/raumuongxao/raumuongxao2.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/raumuongxao/raumuongxao2.jpg">
     <h4>Bước 3: Xào rau muống</h4>
     <p>
     Bạn chuẩn bị một chiếc chảo sâu lòng sạch. Bạn cần phi thơm phần tỏi đã đập dập cùng một ít dầu ăn.
@@ -160,7 +160,7 @@ Bạn cẩn thận đừng làm cháy những tép tỏi bám trên thành chả
 <p>
 Bạn đảo thêm độ 2 phút rồi tắt bếp và gắp ra đĩa.
 </p>
-  <img src="../../../assert/imageFood/raumuongxao/raumuongxao3.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/raumuongxao/raumuongxao3.jpg">
     <h4>Bước 4: Hoàn thành </h4>
     <p>
 Rau muống xào tỏi đạt yêu cầu cần thỏa mãn một số điều kiện. Bạn kiểm tra xem mình đã làm thành công chưa nhé!
@@ -183,6 +183,6 @@ Nếu bạn thích ăn cay thì có thể thêm ớt tươi thái lát vào xào
 <p>
 Rau muống xào thành phẩm có thể được thêm lạc rang, tóp mỡ, tép khô,... để trang trí và ăn kèm theo sở thích. Một số người còn chấm thêm với nước mắm hoặc xì dầu để tăng vị đậm đà.
 </p>
-  <img src="../../../assert/imageFood/raumuongxao/raumuongxao4.jpg">
+  <img class="img-thumbnail" src="../../../assert/imageFood/raumuongxao/raumuongxao4.jpg">
 
-  <p>Nguồn: <a href="https://thalangon.com">thalangon.com</a></p>
+  <p>Nguồn: <a href="https://thatlangon.com">thatlangon.com</a></p>

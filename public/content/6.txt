@@ -53,7 +53,7 @@
   </style>
       <h1>Tên món: Mực Xào Dứa</h1>
     <p>Khẩu phần: 3 người</p>
-  <img src="../../../assert/imageFood/mucxaodua/mucxaodua.jpg">
+  <img class="img-thumbnail src="../../../assert/imageFood/mucxaodua/mucxaodua.jpg">
     
 
     <h2>Nguyên Liệu</h2>
@@ -122,7 +122,7 @@ Bạn có thể quan sát phần mắt của mực. Mực tươi thì mắt đen
 Khi cầm vào râu mực, các giác hút trên xúc tu có độ bám dính vào da mình.
 </li>
 </ul>
-  <img src="../../../assert/imageFood/mucxaodua/mucxaodua1.jpg">
+  <img class="img-thumbnail src="../../../assert/imageFood/mucxaodua/mucxaodua1.jpg">
 <p>Tiếp theo, bạn lần lượt sơ chế theo các bước sau:</p>
     <ol>
     <li>
@@ -153,7 +153,7 @@ Ngoài cách cắt khoanh truyền thống, tùy theo sở thích, bạn thái m
 Làm sạch mực xong, bạn rửa lại với nước sạch và để ráo.
     </li>
     </ol>
-  <img src="../../../assert/imageFood/mucxaodua/mucxaodua2.jpg">
+  <img class="img-thumbnail src="../../../assert/imageFood/mucxaodua/mucxaodua2.jpg">
   <p>
     Nếu sử dụng mực cơm/ mực nút, bạn cần thao tác thật nhanh chóng để mực không bị nát và giữ nguyên giá trị dinh dưỡng.
   </p>
@@ -191,7 +191,7 @@ Cần tây bạn mua những cây thẳng, màu xanh lá đẹp mắt, còn nguy
 <p>
 Một số gia đình hay dùng cần ta thay cho cần tây vì thích vị của nó, tuy mùi không thơm bằng. Nếu dùng cần ta, thường mình chỉ sử dùng phần lá thôi. Phần thân cần ta khi xào sẽ có vị hơi nhẫn một chút, bạn nên cân nhắc khi dùng.
 </p>
-  <img src="../../../assert/imageFood/mucxaodua/mucxaodua3.jpg">
+  <img class="img-thumbnail src="../../../assert/imageFood/mucxaodua/mucxaodua3.jpg">
     <p>
     Phần rau củ, bạn lần lượt sơ chế nhé!
     </p>
@@ -214,14 +214,14 @@ Mực sau khi chần cần được đem xào ngay, nếu để lâu ngoài khô
 <p>
 Bạn phi thơm một nửa chỗ tỏi đã đập dập rồi cho toàn bộ mực vào xào trong 3 phút và nêm nếm gia vị. Xào mực xong, bạn trút ra một chiếc đĩa để riêng. Bước này giúp mực ngấm đều gia vị hơn.
 </p>
-  <img src="../../../assert/imageFood/mucxaodua/mucxaodua4.jpg">
+  <img class="img-thumbnail src="../../../assert/imageFood/mucxaodua/mucxaodua4.jpg">
   <p>
 Phần tỏi còn lại bạn phi thơm rồi lần lượt cho hành tây, dứa và cần tây vào xào khoảng 2 phút rồi nêm nếm vừa ăn. Nếu nhà bạn có người thích ăn cay thì có thể thêm ớt quả thái lát vào để xào cùng.
   </p>
 <p>
 Sau khi xào phần rau củ chín, bạn cho mực vào đảo cùng chừng 1 phút rồi tắt bếp.
 </p>
-  <img src="../../../assert/imageFood/mucxaodua/mucxaodua5.jpg">
+  <img class="img-thumbnail src="../../../assert/imageFood/mucxaodua/mucxaodua5.jpg">
   <p>
 Bước này giúp hương vị của mực thấm đượm vào từng miếng rau củ. Đồng thời, vị chua ngọt của dứa, vị cay nhẹ của hành tây, vị thơm nồng của cần tây cũng sẽ ngấm vào từng miếng mực xào. Ngoài dứa, nếu thích, bạn có thể cho thêm các loại rau củ khác (cà chua, cà rốt, tiêu xanh..) vào xào cùng cũng được nhé!
   </p>
@@ -235,6 +235,6 @@ Bạn múc mực xào dứa ra đĩa, rắc chút tiêu xay bên trên.
 <p>
 Vậy là món ăn đã sẵn sàng lên mâm rồi!
 </p>
-  <img src="../../../assert/imageFood/mucxaodua/mucxaodua6.jpg">
+  <img class="img-thumbnail src="../../../assert/imageFood/mucxaodua/mucxaodua6.jpg">
 
-    <p><em>Nguồn: <a href="https://thalangon.com">thalangon.com</a></em></p>
+    <p><em>Nguồn: <a href="https://thatlangon.com">thatlangon.com</a></em></p>

@@ -47,7 +47,7 @@ const Footer = () => {
                                 <h3 className="text-uppercase mb-4 font-weight-bold">Liên hệ</h3>
                                 <p className=" text-white"><i className="bi bi-geo-alt-fill"></i>  Quang Trung, Gò Vấp, HCM</p>
                                 <p className=" text-white"><i className="bi bi-envelope-fill"></i>  cancook@gmail.com</p>
-                                <p className=" text-white"><i className="bi bi-telephone-fill"></i> + 01 234 567 88</p>
+                                <p className=" text-white"><i className="bi bi-telephone-fill"></i> 01 234 567 88</p>
                             </div>
                             {/* Grid column */}
                             {/* Grid column */}
