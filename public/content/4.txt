@@ -53,7 +53,7 @@
     }
   </style>
   
- <h1>Cá Kho Tộ</h1>
+ <h1>Hương vị đặc biệt: Cá Kho Tộ</h1>
     <p><strong>Khẩu phần:</strong> 4 người</p>
      <img src="../../../assert/imageFood/cakhoto/cakhoto.jpg">
     <h2 id="nl">Nguyên liệu:</h2>

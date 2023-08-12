@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-    <h1>Tên món: Đậu sốt cà chua</h1>
+    <h1>Món ngon: Đậu sốt cà chua</h1>
     <h2>Khẩu phần: 2 người ăn</h2>
   <img class="img-thumbnail" src="../../../assert/imageFood/dausotcachua/dausotcachua.jpg">
 

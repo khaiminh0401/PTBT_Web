@@ -51,7 +51,7 @@
       margin-bottom: 5px;
     }
   </style>
-   <h1>Tên món: Cơm Chiên Trứng</h1>
+   <h1>Món ngon mỗi ngày: Cơm Chiên Trứng</h1>
     <h2>Khẩu phần: 2 người</h2>
         <img class="img-thumbnail" src="../../../assert/imageFood/comchientrung/comchientrung.jpg">
 

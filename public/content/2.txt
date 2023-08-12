@@ -51,7 +51,7 @@
     }
 
   </style>
-   <h1>Tên món: Trứng ốp la</h1>
+   <h1>Khám phá hương vị độc đáo: Trứng ốp la</h1>
   <h2>Khẩu phần: 1 người</h2>
   <img class="img-thumnail" src="../../../assert/imageFood/trungopla/trungopla.jpg">
 

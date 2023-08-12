@@ -51,7 +51,7 @@
       margin-bottom: 5px;
     }
   </style>
-    <h1>Tên món: Rau muống xào</h1>
+    <h1>Rau Muống Xào Tỏi</h1>
   <h2>Khẩu phần: 2 người</h2>
   <img class="img-thumbnail" src="../../../assert/imageFood/raumuongxao/raumuongxao.jpg">
 

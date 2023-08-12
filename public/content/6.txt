@@ -51,7 +51,7 @@
       margin-bottom: 5px;
     }
   </style>
-      <h1>Tên món: Mực Xào Dứa</h1>
+      <h1>Món hấp dẫn: Mực Xào Dứa</h1>
     <p>Khẩu phần: 3 người</p>
   <img class="img-thumbnail src="../../../assert/imageFood/mucxaodua/mucxaodua.jpg">
     

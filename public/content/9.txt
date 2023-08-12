@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-    <h1>Mì xào bò</h1>
+    <h1>Mì xào bò - Món ăn dễ làm và nhanh chóng</h1>
   <h2>Khẩu phần: 2 người</h2>
 
   <img class="img-thumbnail" src="../../../assert/imageFood/mixaobo/mixaobo.jpg">

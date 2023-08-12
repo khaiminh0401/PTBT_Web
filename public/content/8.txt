@@ -52,7 +52,7 @@
     }
   </style>
 
-  <h1>Măng Tây Xào Tỏi</h1>
+  <h1>Măng Tây Xào Tỏi - Món ăn mang hương vị núi rừng</h1>
   <h3>Khẩu Phần: 2 người</h3>
 
   <img class="img-thumbnail" src="../../../assert/imageFood/mangtayxaotoi/mangtayxaotoi.jpg">
