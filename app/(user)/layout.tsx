@@ -4,8 +4,8 @@ import React, { ReactNode } from 'react';
 import { SessionProvider } from "next-auth/react";
 import dynamic from "next/dynamic";
 import { useEffect } from 'react';
-import Head from "next/head";
-import { Metadata } from "next";
+import { ViewProvider } from "@/common/context";
+import Script from "next/script";
 const Header = dynamic(() => import("../../components/Header"), { ssr: false })
 const Footer = dynamic(() => import("@/components/Footer"), { ssr: false })
 
@@ -25,17 +25,26 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <meta name="google-site-verification" content="qIuNUBGmQ2EpiBUHYcmBJZdQjd4643hwJD2sSd98isk" />
-        <title>Can Cook</title>
+        <link rel="icon" href="/_next/image?url=%2Fassert%2Fimg%2Flogo2.png&w=256&q=75" type="image/x-icon" sizes="any" />
+        <Script src="https://cdn.jsdelivr.net/npm/react/umd/react.production.min.js"></Script>
+        <Script
+          src="https://cdn.jsdelivr.net/npm/react-dom/umd/react-dom.production.min.js"
+        ></Script>
+
+        <Script
+          src="https://cdn.jsdelivr.net/npm/react-bootstrap@next/dist/react-bootstrap.min.js"
+        ></Script>
+        <title>CanCook</title>
       </head>
       <body>
         <div className="container-fluid">
-          <div>
+          <ViewProvider>
             <SessionProvider session={session}>
               <Header />
               {children}
               <Footer />
             </SessionProvider>
-          </div >
+          </ViewProvider>
         </div >
       </body >
     </html >

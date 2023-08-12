@@ -7,6 +7,15 @@ export const articleService = {
     findAll: async () => {
         return (await db.query(query.findAll)).rows;
     },
+    deleteById: async(id) =>{
+        return (await db.query(query.deleteById,[id])).rows;
+    },
+    findByPage:async(p)=>{
+        return (await db.query(query.findByPage,[p])).rows;
+    },
+    getSum:async () =>{
+        return (await db.query(query.getSum)).rows;
+    },
     findCountLikeAll: async () => {
         return (await db.query(query.countLikeAll)).rows;
     },
@@ -35,7 +44,7 @@ export const articleService = {
         const result = data.rows;
 
         const formattedResult = result.reduce((acc, curr) => {
-            const { articleid, title, content, createdate, staffid, categoryname, categoryid, totallike, totalcomment, directoryid, directoryname } = curr;
+            const { articleid, title, content, createdate, staffid, categoryname, categoryid, totallike, totalcomment, directoryid, directoryname,view } = curr;
             if (!acc.articleid) acc.articleid = articleid;
             if (!acc.title) acc.title = title;
             if (!acc.content) acc.content = content;
@@ -44,6 +53,7 @@ export const articleService = {
             if (!acc.totallike) acc.totallike = totallike;
             if (!acc.totalcomment) acc.totalcomment = totalcomment;
             if (!acc.categoryid) acc.categoryid = categoryid;
+            if (!acc.view) acc.view = view;
             if (!acc.categoryname) acc.categoryname = categoryname;
             if (!acc.listdirectory) acc.listdirectory = [];
             acc.listdirectory.push({ directoryid, directoryname });
@@ -66,6 +76,8 @@ export const articleService = {
     findContent: async (content: string) => {
         const data = (await db.query(query.findContent, [content]));
         return data.rows[0];
+    },
+    updateView: async (id) =>{
+        return (await db.query(query.updateView,[id])).rows;
     }
-
 }

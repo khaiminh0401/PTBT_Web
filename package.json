@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/jquery": "^3.5.16",
+    "antd": "^5.8.3",
     "autoprefixer": "10.4.14",
     "axios": "^1.4.0",
     "bootstrap": "^5.3.1",
@@ -16,17 +18,21 @@
     "eslint": "8.44.0",
     "eslint-config-next": "13.4.9",
     "fs": "^0.0.1-security",
+    "jquery": "^3.7.0",
     "marked": "^5.1.2",
     "next": "^13.4.10",
     "next-auth": "^4.22.3",
     "pg": "^8.11.1",
     "postcss": "8.4.25",
     "react": "18.2.0",
+    "react-bootstrap": "^2.8.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.45.2",
+    "react-multi-carousel": "^2.8.4",
     "react-paginate": "^8.2.0",
     "react-quill": "^2.0.0",
     "react-share": "^4.4.1",
+    "react-spinners": "^0.13.8",
     "tailwindcss": "^3.3.3"
   },
   "devDependencies": {
