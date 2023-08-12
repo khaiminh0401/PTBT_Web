@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-  <h1>Tên món: Xôi chiên</h1>
+  <h1>Xôi chiên - Món ăn vặt quen thuộc của người Việt Nam</h1>
 <p>Khẩu phần: 4 người</p>
     <img src="../../../assert/imageFood/xoichien/xoichien.jpg">
 

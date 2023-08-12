@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-   <h1>Tên món: Kho quẹt</h1>
+   <h1>Kho Quẹt - Sự kết hợp lý tưởng của gia vị</h1>
     <p>Khẩu phần: 4 người</p>
        <img src="../../../assert/imageFood/khoquet/khoquet.jpg">
 

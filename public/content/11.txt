@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-     <h1>Tên món: Hàu nướng mỡ hành</h1>
+     <h1>Hàu Nướng Mỡ Hành - Hương vị biển cả trên đất liền</h1>
     <p>Khẩu phần: 4 phần</p>
       <img class="img-thumbnail" src="../../../assert/imageFood/haunuong/haunuong.jpg">
 

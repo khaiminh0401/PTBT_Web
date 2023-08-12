@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-    <h1>Nem rán</h1>
+    <h1>Nem Rán - Món ăn yêu thích của giới trẻ</h1>
     <h2>Khẩu phần: 2 người</h2>
   <img class="img-thumbnail" src="../../../assert/imageFood/nemran/nemran.jpg">
 

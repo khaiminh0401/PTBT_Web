@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-<h1>Tên món: Sủi Cảo</h1>
+<h1>Sủi cảo - Món ăn yêu thích của nhiều người</h1>
 <p>Khẩu phần: 3 người</p>
     <img src="../../../assert/imageFood/suicao/suicao.jpg">
 

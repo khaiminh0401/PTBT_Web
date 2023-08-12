@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-<h1>Tên món: Gà Rán</h1>
+<h1>Gà Rán - Giòn tan trong từng miếng cắn</h1>
 <p>Khẩu phần: 4 người</p>
     <img src="../../../assert/imageFood/garan/garan.jpg">
 <h2 id="nl">Nguyên Liệu:</h2>

@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-<h1>Tên món: Tokbokki</h1>
+<h1>Tokbokki - Bánh gạo cay Hàn Quốc, món ăn hấp dẫn</h1>
 <p>Khẩu phần: 4 người</p>
     <img src="../../../assert/imageFood/tokbokki/tokbokki.jpg" >
 

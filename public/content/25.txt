@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-   <h1>Tên món: Gà chiên mắm</h1>
+   <h1>Gà Chiên Mắm - Tinh hoa của gia vị đậm đà</h1>
     <h2>Khẩu phần: 4 người</h2>
         <img src="../../../assert/imageFood/gachienmam/gachienmam.jpg" alt="">
 

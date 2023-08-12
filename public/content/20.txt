@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-  <h1>Tên món: Thạch dừa</h1>
+  <h1>Rau câu - Món ăn lý tưởng cho bữa tráng miệng</h1>
 <p>Khẩu phần: 3 người</p>
     <img src="../../../assert/imageFood/thachdua/thachdua.jpg">
 <h3 id="nl">Nguyên Liệu:</h3>

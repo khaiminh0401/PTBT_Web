@@ -52,7 +52,7 @@
     }
 </style>
 
-<h1>Tôm Tẩm Bột Chiên Xù</h1>
+<h1>Tôm tẩm bột chiên xù - Món ăn vặt yêu thích của nhiều người</h1>
 <img src="../../../assert/imageFood/tomtambotchienxu/tomtambotchienxu.jpg" alt="Tôm Tẩm Bột Chiên Xù">
 
 <h2 id="nl">Nguyên Liệu</h2>

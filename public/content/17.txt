@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-   <h1>Trứng Ngâm Tương</h1>
+   <h1>Trứng gà ngâm tương - Món ăn ngon, bổ dưỡng cho bữa cơm gia đình</h1>
     <h3>Khẩu phần: 3 người</h3>
     <img src="../../../assert/imageFood/trungngamtuong/trungngamtuong.jpg">
 

@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-<h1>Tên món: Xíu mại</h1>
+<h1>Xíu mại - Món ăn ngon miệng và bổ dưỡng</h1>
 <p>Khẩu phần: 5 người</p>
     <img src="../../../assert/imageFood/xiumai/xiumai.jpg">
 

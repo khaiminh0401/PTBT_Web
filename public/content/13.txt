@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-    <h1>Salad Cá Ngừ</h1>
+    <h1>Salad Cá Ngừ - Món ăn lý tưởng cho bữa tiệc</h1>
 
     <h2>Khẩu phần: 3 người</h2>
       <img src="../../../assert/imageFood/saladcangu/saladcangu.jpg">

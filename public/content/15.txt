@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-    <h1>Sườn Xào Chua Ngọt</h1>
+    <h1>Sườn xào chua ngọt - Món ăn ngon, đậm đà, hấp dẫn</h1>
 
     <h2>Khẩu phần: 4 người</h2>
           <img src="../../../assert/imageFood/suonxaochuangot/suonxaochuangot.jpg">

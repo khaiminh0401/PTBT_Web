@@ -52,7 +52,7 @@
       margin-bottom: 5px;
     }
   </style>
-    <h1>Salad Cá Hồi</h1>
+    <h1>Salad Cá Hồi - Món ăn khai vị ngon, bổ dưỡng</h1>
 
     <h2>Khẩu phần: 2 người</h2>
     <img class="img-thumbnail" src="../../../assert/imageFood/saladcahoi/saladcahoi.jpg">
