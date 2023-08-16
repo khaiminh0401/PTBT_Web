@@ -6,19 +6,13 @@ import Link from 'next/link'
 const Card = ({ ...props }: Article) => {
     return (
         <>
-            <div className="mb-3 border cardAr" style={{ backgroundColor: "white" }}>
+            <div className="mb-3 border border-3 rounded-4 cardAr" style={{ backgroundColor: "white" }}>
                 <div className="product-grid">
                     <div className="product-image">
                         <Link
-                            href={{
-                                pathname: `/article/${props.id}`
-                            }}
-                            className='text-decoration-none'
-                        >
-                            <img
-                                className="img-1"
-                                src={props.image}
-                            />
+                            href={{ pathname: `/article/${props.id}` }}
+                            className='text-decoration-none'>
+                            <img className=" p-2 rounded"  src={props.image}/>
                         </Link>
                         <ul className="product-links row">
                             <li>
@@ -60,8 +54,8 @@ const Card = ({ ...props }: Article) => {
                             </Link>
                         </h3>
                         <div className="comment">
-                            <span>{props.view} views</span>
-                            <span> {props.sumComment} comment</span>
+                            <span><i className=" me-1 bi bi-eye"></i>{props.view} views</span>
+                            <span><i className="ms-3 me-1 bi bi-chat-dots-fill"></i> {props.sumComment} comment</span>
                         </div>
                     </div>
                 </div>
